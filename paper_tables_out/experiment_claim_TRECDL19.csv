@@ -1,0 +1,3 @@
+name,nDCG@10,AP(rel=2)@1000,AP@1000,nDCG@10 +,nDCG@10 -,nDCG@10 p-value,nDCG@10 reject,nDCG@10 p-value corrected,AP(rel=2)@1000 +,AP(rel=2)@1000 -,AP(rel=2)@1000 p-value,AP(rel=2)@1000 reject,AP(rel=2)@1000 p-value corrected,AP@1000 +,AP@1000 -,AP@1000 p-value,AP@1000 reject,AP@1000 p-value corrected
+MiniLM_CAT,0.6884,0.4568,0.4792,,,,False,,,,,False,,,,,False,
+MiniLM_BM25CAT,0.6785,0.4424,0.4678,15.0,18.0,0.30914732803568107,False,0.30914732803568107,17.0,23.0,0.05341665280738118,False,0.05341665280738118,18.0,23.0,0.08807793018861493,False,0.08807793018861493
